@@ -1,0 +1,1 @@
+import{d as e,s as t,t as n,u as r}from"./index-CDckR1Z0.js";var i={};function a(n,i){return e(),r(`div`,null,[...i[0]||=[t(`h2`,null,`关于我`,-1),t(`p`,null,`这是实验作业的关于页面，完成了 Vue3 + Vite + Router + Pinia 的综合实践。`,-1)]])}var o=n(i,[[`render`,a]]);export{o as default};
